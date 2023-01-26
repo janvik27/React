@@ -1,0 +1,38 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: brown;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+  height: 50px;
+}
+
+.logo {
+  height: 50px;
+  width: 50px;
+}
+
+.user-icon {
+  height: 50px;
+  width: 50px;
+}
+
+/* .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    background-color: lightcoral;
+    padding : 10px ;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.logo {
+    height : 50px;
+    width : 50px;
+} */
